@@ -1,7 +1,11 @@
 # idp
 Internal Developer Platform (IDP) idp.softreck.dev
 
++ [js-func/npm-style-guide: Opinionated npm Style Guide​ for teams.](https://github.com/js-func/npm-style-guide)
+
+
 ## Tools
+https://github.com/erusev/parsedown
 
 ### Install composer
 
