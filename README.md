@@ -1,4 +1,6 @@
-# IDP, Internal Developer Platform (IDP) idp.softreck.dev
+# IDP, Internal Developer Platform (IDP) 
+
++ [idp.softreck.dev](https://idp.softreck.dev/)
 
 + [js-func/npm-style-guide: Opinionated npm Style Guide​ for teams.](https://github.com/js-func/npm-style-guide)
 
