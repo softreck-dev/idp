@@ -41,3 +41,10 @@ remove
 + [Privacy Policy at Softreck - pp.softreck.dev](https://pp.softreck.dev)
 + [Terms of Use - Softreck - tos.softreck.dev](https://tos.softreck.dev)
 + [Softreck.Dev Foundation Code of Conduct - coc.softreck.dev](https://coc.softreck.dev)
+
+---
++ [edit](https://github.com/softreck/idp/edit/main/README.md)
+
+```
+https://github.com/softreck/idp.git
+```    
